@@ -3,6 +3,25 @@
     font-family: "dongle";
 }
 
+@font-face {
+    src: url("../css/font/GowunBatang-Regular.ttf");
+    font-family: "gowunBatang";
+}
+
+@font-face {
+    src: url("../css/font/GowunBatang-Bold.ttf");
+    font-family: "gowunBatangBold";
+}
+
 section {
-    font-family: "dongle";
+    /*font-family: "dongle";*/
+    font-family: "gowunBatang";
+}
+
+p {
+    font-family: "gowunBatangBold";
+}
+
+div {
+    font-family: "gowunBatang";
 }
