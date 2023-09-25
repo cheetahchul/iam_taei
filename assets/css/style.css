@@ -1,0 +1,7 @@
+@font-face {
+    src: url("../css/font/Dongle-Light.ttf");
+    font-family: "dongle";
+}
+section {
+    font-family: "dongle";
+}
